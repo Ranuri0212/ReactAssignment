@@ -1,0 +1,41 @@
+.photo01 {
+  position: absolute;
+  width: 1086px;
+  height: 650px;
+  left: -241px;
+  top: 200px;
+
+  background: #ffffff;
+  border-radius: 61px;
+  transform: rotate(-16.3deg);
+}
+.me {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 1100px;
+  top: 180px;
+  border-radius: 50%;
+}
+
+.minu {
+  z-index: 1;
+}
+#block {
+  position: absolute;
+  left: 5%;
+  right: 0;
+  top: 200px;
+}
+#backgr {
+  background-color: black;
+}
+
+.homeimage1 {
+  width: 300px;
+  height: 300px;
+  background-color: #002347;
+  border-radius: 50%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
